@@ -1,0 +1,23 @@
+.searchBar {
+    box-sizing: border-box;
+    width: 25vw;
+    border: 1px solid #338d8d;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: whitesmoke;
+  }
+  
+  .searchBtn {
+    height: 100%;
+    width: 4vw;
+    border: 1px solid #338d8d;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    color: #338d8d;;
+    background-color: whitesmoke;
+  }
+  
+  .searchBtn:hover {
+    background-color: #338d8d;;
+    color: whitesmoke;
+  }
